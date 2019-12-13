@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work
+subtitle: This blog focuses on my work as a software engineer and software development manager
 img_path: images/about.jpg
 menus:
   main:
@@ -9,12 +9,10 @@ menus:
 layout: page
 ---
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+**Helmut Hoffer von Ankershoffen** is a technical manager and software engineer in Berlin working as founder, CEO or CTO since 1997.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+>The future is already here - it's just not evenly distributed. <cite>William Gibson</cite>
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+As a hobby, Helmut Hoffer von Ankershoffen tries to up his game regarding photography and showcases his art in his <a rel="me" target="_blank" href="https://ankershoffen.photo.blog">photo blog</a>.
 
 *Thank You for reading!*
