@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: This blog focuses on Helmut Hoffer von Ankershoffen's work as a software development manager at Amazon
+subtitle: This blog focuses on Helmut Hoffer von Ankershoffen's learnings as a software development manager
 img_path: images/about.jpg
 menus:
   main:
