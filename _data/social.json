@@ -4,31 +4,31 @@
             "type": "twitter",
             "title": "Twitter",
             "icon": "fa-twitter",
-            "url": "https://twitter.com/"
+            "url": "https://twitter.com/h_ankershoffen/"
         },
         {
             "type": "instagram",
             "title": "Instagram",
             "icon": "fa-instagram",
-            "url": "https://www.instagram.com/"
+            "url": "https://www.linkedin.com/in/helmut-hoffer-von-ankershoffen/"
         },
         {
             "type": "github",
             "title": "GitHub",
             "icon": "fa-github",
-            "url": "https://github.com/"
+            "url": "https://github.com/helmut-hoffer-von-ankershoffen/"
         },
         {
             "type": "linkedin",
             "title": "LinkedIn",
             "icon": "fa-linkedin",
-            "url": "https://www.linkedin.com/"
+            "url": "https://www.linkedin.com/in/helmut-hoffer-von-ankershoffen/"
         },
         {
             "type": "devto",
             "title": "DEV",
             "icon": "fa-dev",
-            "url": "https://dev.to/"
+            "url": "https://dev.to/helmut_hoffer_von_ankershoffen/"
         }
     ]
 }

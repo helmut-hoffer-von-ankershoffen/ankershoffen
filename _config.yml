@@ -1,4 +1,4 @@
-title: Software Engineering Blog - Helmut Hoffer von Ankershoffen
+title: Blog about software development management by Helmut Hoffer von Ankershoffen
 baseurl: /
 permalink: '/:title/'
 layout_style: grid
@@ -8,7 +8,7 @@ header:
   logo_img: images/logo.png
   has_nav: true
 footer:
-  content: '&copy; Helmut Hoffer von Ankershoffen - all rights reserved.'
+  content: '&copy; <a rel="me" target="_blank" href="https://helmut.hoffer-von-ankershoffen.me">Helmut Hoffer von Ankershoffen</a> - all rights reserved.'
   links:
     - text: This is me
       url: 'https://helmut.hoffer-von-ankershoffen.me'

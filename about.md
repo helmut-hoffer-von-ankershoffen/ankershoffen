@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: This blog focuses on my work as a software engineer and software development manager
+subtitle: This blog focuses on my work as a software development manager at Amazon
 img_path: images/about.jpg
 menus:
   main:
@@ -13,6 +13,6 @@ layout: page
 
 >The future is already here - it's just not evenly distributed. <cite>William Gibson</cite>
 
-As a hobby, Helmut Hoffer von Ankershoffen tries to up his game regarding photography and showcases his art in his <a rel="me" target="_blank" href="https://ankershoffen.photo.blog">photo blog</a>.
+As a hobby, Helmut Hoffer von Ankershoffen tries to up his photography game and showcases selected work in his <a rel="me" target="_blank" href="https://ankershoffen.photo.blog">photo blog</a>.
 
 *Thank You for reading!*
