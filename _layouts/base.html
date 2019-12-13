@@ -1,5 +1,5 @@
 <!doctype html>
-<html>
+<html lang="{{ site.lang | default: "en-US" }}">
     <head>
 
         <title>{% assign title_is_not_empty = page.title | is_not_empty %}{% if title_is_not_empty %}{{ page.title }} - {% endif %}{{ site.title }}</title>
@@ -15,15 +15,33 @@
         {% endif %}
         {% endif %}
 
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@{{ site.twitter_username }}">
+        <meta name="twitter:creator" content="@{{ site.twitter_username }}">
+        <meta content="{{ site.title }}" property="og:site_name">
+
         <meta name="google-site-verification" content="Bo7tQfoSfQgAQpDUTDwLsNGXPfFsF33zGmIusbEJMKc" />
         <meta name="yandex-verification" content="f2860aaa8a8f8ebe" />
-        
+
     </head>
+
     <body>
 
         {{ content }}
+
         <!-- Scripts -->
         <script src="{{ 'assets/js/plugins.js' | relative_url }}"></script>
         <script src="{{ 'assets/js/main.js' | relative_url }}"></script>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-154035607-4"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'UA-154035607-4');
+        </script>
+
     </body>
+
 </html>

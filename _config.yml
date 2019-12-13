@@ -20,6 +20,7 @@ sass:
   precision: 10
 plugins:
   - jekyll-menus
+  - jekyll-sitemap
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -37,3 +38,4 @@ exclude:
 collections:
   posts:
     permalink: '/posts/:title/'
+twitter_username: h_ankershoffen
