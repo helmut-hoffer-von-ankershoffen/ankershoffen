@@ -6,7 +6,7 @@
         &nbsp;
         {% for link in site.footer.links %}
         <a href="{{ link.url }}" {% assign new_window_is_not_empty = link.new_window | is_not_empty %}
-          {% if new_window_is_not_empty %}target="_blank" rel="noopener"
+          {% if new_window_is_not_empty %}target="_blank" rel="noopener me"
           {% endif %}>{{ link.text }}</a>.
         {% endfor %}
       </p><!-- .site-info -->

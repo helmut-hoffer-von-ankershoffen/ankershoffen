@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: This blog focuses on my work as a software development manager at Amazon
+subtitle: This blog focuses on Helmut Hoffer von Ankershoffen's work as a software development manager at Amazon
 img_path: images/about.jpg
 menus:
   main:
@@ -15,4 +15,4 @@ layout: page
 
 As a hobby, Helmut Hoffer von Ankershoffen tries to up his photography game and showcases selected work in his <a rel="me" target="_blank" href="https://ankershoffen.photo.blog">photo blog</a>.
 
-*Thank You for reading!*
+*Thank you for reading and <a rel="me" target="_blank" href="https://helmut.hoffer-von-ankershoffen.me">follow me</a> at will.*
